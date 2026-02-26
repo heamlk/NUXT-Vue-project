@@ -99,6 +99,3 @@ nuxt-boilerplate/
 
 This project is licensed under the terms found in the [LICENSE](./LICENSE) file.
 
-## Author
-
-Created by [Son H.Do](https://github.com/cmhkuot)
